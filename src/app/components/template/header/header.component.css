@@ -16,6 +16,7 @@
 .header .title-group {
   padding-left: 25px;
 }
-.header .title-group i {
+.header .title-group i, a {
   padding-right: 5px;
+  color: black;
 }
