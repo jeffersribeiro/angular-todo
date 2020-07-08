@@ -11,8 +11,9 @@ body {
 }
 
 .red {
-    color:#fb2b2b;
+    color: #fb2b2b;
 }
+
 .blue {
     margin-right: 15px;
     color: rgb(115, 235, 131);
@@ -21,6 +22,17 @@ body {
 i {
     cursor: pointer;
 }
+
 .v-meddle {
     vertical-align: middle;
+}
+
+.msg-success {
+    background-color: #28a745;
+    color: white
+}
+
+.msg-error {
+    background-color: #b62c2c;
+    color: white;
 }
