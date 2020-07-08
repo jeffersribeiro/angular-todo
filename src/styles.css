@@ -11,9 +11,16 @@ body {
 }
 
 .red {
-    color: rgb(227, 94, 107);
+    color:#fb2b2b;
+}
+.blue {
+    margin-right: 15px;
+    color: rgb(115, 235, 131);
 }
 
+i {
+    cursor: pointer;
+}
 .v-meddle {
     vertical-align: middle;
 }
